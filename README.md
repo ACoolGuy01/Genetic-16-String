@@ -2,4 +2,4 @@
 A genetic algorithm that evolves and mutates into a certain string
 
 ## License
-This project is under the [LICENSE](MIT-LICENSE)
+This project is under the [MIT LICENSE](LICENSE)
